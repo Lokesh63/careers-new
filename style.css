@@ -1,0 +1,122 @@
+.first{
+    font-weight: 100;
+    padding-top: 10px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    padding: 10px;
+}
+.same{
+    font-size:larger;
+    margin-left: 50px;
+    padding-top: 15px;
+   
+}
+.same a{
+    color: #D5162B;
+}
+.all{
+    padding-top: 10px;
+}
+.section{
+    background-image: url(groups.jpg);
+    min-height: 620px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.section-1{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+.section-1{
+    position: relative;
+    top:200px;
+    
+}
+.section-2{
+    position: relative;
+    top:200px;
+    line-height: 1.6;
+  
+
+}
+
+.edge {
+    cursor: pointer;
+    transition: .2s ease;
+    position: relative;
+    top:350px;
+    
+}
+.btn-primary {
+    color: #fff;
+    border-color: #ff9d34 !important;
+    background-color: #ff9d34 !important;
+  
+}
+.hey{
+    text-align:center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+.edit{
+    color: #6c757d;
+    font-size: larger;
+    line-height: 1.6;
+}
+.wt-section{
+    padding-top: 100px;
+}
+.sections{
+    background-image: url(group.jpg);
+    min-height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 5px;
+}
+.sec4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.beg{
+    text-align: center;
+    font-weight: bold;
+}
+.beg1{
+    text-align: center;
+    color: #6c757d;
+    font-weight: bold;
+}
+
+.btn-pill{
+    border-color: #D5162B !important;
+    background-color:#D5162B !important;
+}
+.bod{
+    border: 1px solid  #6c757d;
+    padding: 65px;
+}
+.section3{
+    background-image: url(groups.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+.fin{
+    
+    padding-top: 30px;
+}
+.edge1{
+  position: relative;
+  bottom: 70px;
+}
+.wt-section{
+    position: relative;
+    bottom: 70px;
+}
